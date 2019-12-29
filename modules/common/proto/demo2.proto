@@ -1,0 +1,6 @@
+import "demo.proto";
+
+syntax = "proto2";
+
+package modules.common;
+
